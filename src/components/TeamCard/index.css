@@ -1,0 +1,19 @@
+.card {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px;
+}
+.name {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 20px;
+}
+.team-logo {
+  height: 60px;
+  width: 60px;
+}

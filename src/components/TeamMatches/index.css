@@ -1,0 +1,12 @@
+.team-banner-image {
+  margin-left: 120px;
+}
+.recent-card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.latest-heading {
+  margin-left: 70px;
+  font-family: Bree serif;
+}
